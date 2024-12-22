@@ -1,5 +1,33 @@
+/* General body styling */
 body {
     font-family: Arial, sans-serif;
-    text-align: center;
-    padding: 50px;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
 }
+
+/* Styling for the header */
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Styling for the main content area */
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+/* Styling for the footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
